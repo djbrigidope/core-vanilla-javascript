@@ -1,15 +1,15 @@
-[ ] Artifact produced is a fork of the core-vjs repo.
- 
+[x] Artifact produced is a fork of the core-vjs repo.
+
 [ ] All readings and videos in the solo_study.md file are completed and checked off.
- 
+
 [ ] All exercises and lessons in the solo_study.md file are completed and checked off.
- 
+
 [ ] Solution code for all exercises in solo_study.md file are added to the repo.
- 
+
 [ ] Final project is complete and in the proper directory of the artifact.
- 
+
 [ ] Code is well formatted with proper spacing and indentation.
- 
+
 [ ] Variables, functions, files, etc. have appropriate and meaningful names.
 
 
@@ -29,13 +29,13 @@ Your objectives for the day are to achieve:
 
 ### Plan
 
-- [ ] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
-- [ ] Complete "Introducing JavaScript"
-- [ ] Complete "Storing and Tracking Information with Variables"
-- [ ] Complete "Working With Numbers"
-- [ ] Complete "Making Decisions with Conditional Statements"
-- [ ] Complete "Creating Reusable Code with Functions"
-- [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
+- [x] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
+- [x] Complete "Introducing JavaScript"
+- [x] Complete "Storing and Tracking Information with Variables"
+- [x] Complete "Working With Numbers"
+- [x] Complete "Making Decisions with Conditional Statements"
+- [x] Complete "Creating Reusable Code with Functions"
+- [x] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
 
