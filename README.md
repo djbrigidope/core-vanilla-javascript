@@ -10,7 +10,7 @@
 
 [ ] Code is well formatted with proper spacing and indentation.
 
-[ ] Variables, functions, files, etc. have appropriate and meaningful names.
+[x] Variables, functions, files, etc. have appropriate and meaningful names.
 
 
 # Core Vanilla JavaScript - Solo Study
@@ -69,8 +69,8 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
-- [ ] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [ ] Link to your solution here
+- [x] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
+  - [x] Link to your solution here (/array-exercises-master/scripts.js)
 - [ ] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
   - [ ] Link to your solution here
 - [ ] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
