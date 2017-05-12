@@ -64,8 +64,8 @@ Today your objectives are to put in practice the concepts you learned yesterday.
  - [ ] Link to your solution here
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
  - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [X] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [x] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
@@ -111,7 +111,7 @@ Let's test our understanding by working on some Koans.
 
 Ok, on for some more drills.
 
-- [ ] Sign up for an [edabit](http://edabit.com) account.
+- [x] Sign up for an [edabit](http://edabit.com) account.
 - [ ] Solve all 10 array challenges linked in [/challenges/edabit-arrays.js](/challenges/edabit-arrays.js) and commit your solutions to the file
 
 - Browse in the terminal to the `js-assessment` folder in this repo.

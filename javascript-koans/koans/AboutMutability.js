@@ -4,7 +4,7 @@ describe("About Mutability", function() {
     var aPerson = {firstname: "John", lastname: "Smith" };
     aPerson.firstname = "Alan";
 
-    expect(aPerson.firstname).toBe(FILL_ME_IN);
+    expect(aPerson.firstname).toBe("Alan");
   });
 
   it("should understand that constructed properties are public and mutable", function () {
@@ -14,9 +14,9 @@ describe("About Mutability", function() {
       this.lastname = lastname;
     }
     var aPerson = new Person ("John", "Smith");
-    aPerson.firstname = "Alan";
+    aPerson.firstname = "John";
 
-    expect(aPerson.firstname).toBe(FILL_ME_IN);
+    expect(aPerson.firstname).toBe("John");
   });
 
   it("should expect prototype properties to be public and mutable", function () {
